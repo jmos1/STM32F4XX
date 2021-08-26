@@ -1,0 +1,8 @@
+uart.c:29:6:usart6_init	0	static
+uart.c:81:6:usart6_receive	0	static
+uart.c:86:6:usart6_send	0	static
+uart.c:96:6:usart6_irq_handler	8	static
+uart.c:117:6:usart6_tx_irqen	0	static
+uart.c:121:6:usart6_rx_irqen	0	static
+uart.c:125:6:usart6_tx_irqdi	0	static
+uart.c:129:6:usart6_rx_irqdi	0	static
